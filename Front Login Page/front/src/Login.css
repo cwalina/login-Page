@@ -1,0 +1,35 @@
+.login-container {
+    /* background-image: url('../images/login-background.jpg'); */
+    background-image: url('images/bg7.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    height: 93.1vh;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+    width: 100%;
+}
+
+.loginCard {
+    box-shadow: 10px 15px 40px 2px #d0cece30;
+    display: table;
+    margin: 0 auto;
+    padding: 15px 30px;
+    max-width: 400px;
+    background-color: #ffffffaf;
+    border-radius: 20px;
+}
+
+.btnAnmelden {
+    width: 100%;
+}
+
+.textForgot_password {
+    font-size: 10pt;
+    padding-left: 20px;
+}
+
+.incorrect {
+    padding: 0.5rem !important;
+}
